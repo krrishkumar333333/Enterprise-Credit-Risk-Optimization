@@ -1,0 +1,9 @@
+# Ignore large datasets
+data/raw/*.csv
+data/raw/*.zip
+*.zip
+
+# Ignore Python caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
